@@ -1,7 +1,7 @@
 Sure! Here is a profile README template for your GitHub profile:
 
 ```markdown
-# Hi there, I'm Noxzi59! 👋
+# Hi there, I'm Shivam Negi! 👋
 
 I'm a passionate developer with a keen interest in coding, technology, and learning new things. Welcome to my GitHub profile!
 

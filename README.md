@@ -1,39 +1,44 @@
-Sure! Here is a profile README template for your GitHub profile:
+# Hi, I'm Shivam Negi `>_<`
 
-```markdown
-# Hi there, I'm Shivam Negi! 👋
+I'm a Computer Science student interested in **software development, AI, and building things that solve actual problems**.
 
-I'm a passionate developer with a keen interest in coding, technology, and learning new things. Welcome to my GitHub profile!
+I enjoy working across the stack, experimenting with new technologies, and occasionally making something that works on the first try.
 
-## 🚀 About Me
-- 🌱 I’m currently learning and exploring new technologies.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about anything related to web development, programming, or technology in general.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love to solve puzzles and play video games in my free time.
+## `._.` Interests
 
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Web Development:** HTML, CSS
-- **Databases:** MySQL
-- **Tools:** Git,  VS Code
+`AI / ML` · `Software Development` · `Computer Vision`  
+`Web Development` · `Data` · `Game Development`
 
-## 📈 GitHub Stats
-![Noxzi59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxzi59&show_icons=true&theme=radical)
+## `>_>` Tech
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxzi59&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://your-personal-website.com)
-
-Thanks for stopping by! Have a great day! ✨
+```text
+Python       JavaScript       TypeScript
+C / C++      React            Django
+SQL          PostgreSQL       Git
 ```
 
-Feel free to customize the sections to better fit your personal information and preferences.
-<!---
-Noxzi59/Noxzi59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I use whatever tools make sense for the problem rather than collecting technologies like Pokémon.
+
+## `^_^` Outside the Code
+
+Hackathons, experimenting with ideas, game development, data visualization, and generally finding new ways to make my computer do things.
+
+## `o_o` GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Noxzi59&show_icons=true&theme=transparent&hide_border=true"/>
+
+</p>
+
+## `>_<` Connect
+
+[GitHub](https://github.com/Noxzi59) · [LinkedIn](https://linkedin.com/)
+
+---
+
+<p align="center">
+
+`._.` Thanks for stopping by `._.`
+
+</p>
